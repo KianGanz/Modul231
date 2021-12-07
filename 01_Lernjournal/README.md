@@ -23,18 +23,22 @@ Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
  - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
 
 # 3. 27.09.2021
-| Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
 
 
 # 4. 04.10.2021
 
 # 5. 25.10.2021
 
+# 6. 2.11.2021
 
+# 7. 9.11.2021
 
+# 8. 16.11.2021
+
+# 9. 23.11.2021
+
+# 10. 30.11.2021
+
+# 11. 7.12.2021
+Heute haben wir die Datenschutzbedingungen verschiedener Prüfungen angeschaut. Ich war in der Gruppe mit Whatsapp und der Datenschutz ist absoluter Müll. Wir haben auch einen Film über Datenmoderatoren geschaut in dem es um Leute geht die das Internet von kritischem content reinigen.
 # 6. Quellen
