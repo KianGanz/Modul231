@@ -1,4 +1,4 @@
-# 231 - Persönliches Portfolio von Max Müller
+# 231 - Persönliches Portfolio von Kian Ganz
 
 # Inhaltsverzeichnis
  - [Lernjournal](/01_Lernjournal/)
