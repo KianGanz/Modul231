@@ -1,44 +1,26 @@
 # Lernjournal  <!-- omit in toc -->
 
 # Inhaltsverzeichnis  <!-- omit in toc -->
-- [1. Bis 19.09.2021](#1-bis-19092021)
-- [2. 20.09.2021](#2-20092021)
-  - [2.1. Ziele](#21-ziele)
-  - [2.2. Auswertung](#22-auswertung)
-- [3. 27.09.2021](#3-27092021)
-- [4. 04.10.2021](#4-04102021)
-- [5. 25.10.2021](#5-25102021)
-- [6. Quellen](#6-quellen)
+- [1. 20.09.2021](#1-20092021)
+- [2. 27.09.2021](#2-27092021)
+- [3. 07.12.2021](#3-04102021)
+- [4. 14.12.2021](#4-14122021)
+- [Quellen](#quellen)
 
-# 1. Bis 19.09.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+# 1. 23.11.2021
 
+Heute habe ich viel über Github und Gitlab gelernt und ausserdem auch noch wie man einen ssh key einbinden kann. Ich denke es lief alles ganz ok und ich bin auch recht gut mitgekommen.
 
-# 2. 20.09.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
+# 2. 30.11.2021
 
+Ich habe sehr viel darüber gelernt was ein sicheres Passwort ist. Ich habe auch ein paar Passwortmanager angeschaut und untersucht.
 
-## 2.2. Auswertung
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+# 3. 7.12.2021
 
-# 3. 27.09.2021
-
-
-# 4. 04.10.2021
-
-# 5. 25.10.2021
-
-# 6. 2.11.2021
-
-# 7. 9.11.2021
-
-# 8. 16.11.2021
-
-# 9. 23.11.2021
-
-# 10. 30.11.2021
-
-# 11. 7.12.2021
 Heute haben wir die Datenschutzbedingungen verschiedener Prüfungen angeschaut. Ich war in der Gruppe mit Whatsapp und der Datenschutz ist absoluter Müll. Wir haben auch einen Film über Datenmoderatoren geschaut in dem es um Leute geht die das Internet von kritischem content reinigen.
-# 6. Quellen
+
+# 4. 14.12.2021
+
+Wir haben heute einen Test geschrieben. Es war der erste Test in diesem Modul und ich glaube er lief nicht soo schlecht. Danach haben wir noch weitere zwei Lektionen am Github und am Passwortmanager gearbeitet. Der Test lief grundsätzlich nicht schlecht, aber ich habe ein paar Fehler wie ich im nachhinein bemerkt habe.
+
+# Quellen
