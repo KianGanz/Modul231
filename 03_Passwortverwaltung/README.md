@@ -12,14 +12,14 @@
 | Beste Kundenfreundlichkeit       |            |          |     X     |
 | Verständlichstes Design          |            |          |     X     |
 
-
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
+Ich habe mich für Bitwarden entschieden. Das wichtigste ist dabei das er Opensource ist. 
+Die Sicherheit spielt natürlich auch eine bedeutende Rolle dabei und ich hatte ihn schon vorhin auch eingerichtet.
 
 # Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+Ich musste mich nur anmelden mit meinen persönlichen Daten und ein Passwort plus email wählen und dann konnte ich ihn schon benutzen. Die Benutzeroberfläche ist vielleicht nicht gerade die beste aber wenn man sich ein bisschen auskennt dann ist sie auch nicht kompliziert.
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Ich benutze den Passwortmanager im Browser das heisst ich kann ihn auf jedem Gerät benutzen. Ich kann auch sehr gut alles verwalten und übersichtlich anordnen mit dem Link zur webseite noch dazu. Ich kann einen neuen Eintrag erschaffen und dort alle nötigen Daten eintragen sowie ein zufälliges Passwort generieren.
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+bitwarden.com
