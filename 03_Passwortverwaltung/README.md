@@ -1,6 +1,18 @@
 # Passwortverwaltung
 
 # Entscheidung
+
+|                                  | Bitwarden  | LastPass | KeePassXC |
+|----------------------------------|------------|----------|-----------|
+| Open Source                      |      X     |          |           |
+| Keylogger Schutz                 | keine Info |     X    |keine Info |
+| Automatische Passwortgenerierung |      X     |     X    |     X     |
+| Automatische Sperre              |      X     |     X    |     X     |
+| Beste Sicherheit                 |      X     |          |           |
+| Beste Kundenfreundlichkeit       |            |          |     X     |
+| Verständlichstes Design          |            |          |     X     |
+
+
 *Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
 
 # Installation
