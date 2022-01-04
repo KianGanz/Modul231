@@ -2,15 +2,23 @@
 
 # Entscheidung
 
-|                                  | Bitwarden  | LastPass | KeePassXC |
+|                                  | Bitwarden  | LastPass |  KeePass  |
 |----------------------------------|------------|----------|-----------|
-| Open Source                      |      X     |          |           |
+| Open Source                      |      X     |          |     X     |
 | Keylogger Schutz                 | keine Info |     X    |keine Info |
 | Automatische Passwortgenerierung |      X     |     X    |     X     |
 | Automatische Sperre              |      X     |     X    |     X     |
 | Beste Sicherheit                 |      X     |          |           |
 | Beste Kundenfreundlichkeit       |            |          |     X     |
 | Verständlichstes Design          |            |          |     X     |
+| Zwei-Faktor Autentifikation      |      X     |     X    |           |
+
+Bitwarden benutzt eine 256-bit end-zu-end verschlüsselung
+
+Die Verschlüsselung von Lastpass ist unbekannt
+
+KeePass benutzt ebenfalls eine 256-bit verschlüsselung
+
 
 Ich habe mich für Bitwarden entschieden. Das wichtigste ist dabei das er Opensource ist. 
 Die Sicherheit spielt natürlich auch eine bedeutende Rolle dabei und ich hatte ihn schon vorhin auch eingerichtet.
