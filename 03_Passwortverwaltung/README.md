@@ -2,7 +2,7 @@
 
 # Entscheidung
 
-|                                  | Bitwarden  | LastPass |  KeePass  |
+|                                  | [Bitwarden](https://bitwarden.com/)  | [LastPass](https://www.lastpass.com/de) |  [KeePassXC](https://keepassxc.org/)  |
 |----------------------------------|------------|----------|-----------|
 | Open Source                      |      X     |          |     X     |
 | Keylogger Schutz                 | keine Info |     X    |keine Info |
