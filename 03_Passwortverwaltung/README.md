@@ -34,4 +34,6 @@ Ich musste mich nur anmelden mit meinen persönlichen Daten und ein Passwort plu
 Ich benutze den Passwortmanager im Browser das heisst ich kann ihn auf jedem Gerät benutzen. Ich kann auch sehr gut alles verwalten und übersichtlich anordnen mit dem Link zur webseite noch dazu. Ich kann einen neuen Eintrag erschaffen und dort alle nötigen Daten eintragen sowie ein zufälliges Passwort generieren.
 
 # Quellen
-bitwarden.com
+[Bitwarden](https://bitwarden.com/)
+[LastPass](https://www.lastpass.com/de)
+[KeePassXC](https://keepassxc.org/)
