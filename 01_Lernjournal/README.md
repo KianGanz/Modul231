@@ -5,6 +5,7 @@
 - [2. 27.09.2021](#2-30112021)
 - [3. 07.12.2021](#3-07122021)
 - [4. 14.12.2021](#4-14122021)
+- [4. 04.01.2022](#5-04012022)
 - [Quellen](#quellen)
 
 # 1. 23.11.2021
@@ -22,5 +23,9 @@ Wir haben wieder ein Quiz über den Text den wir lesen mussten gemacht. Heute ha
 # 4. 14.12.2021
 
 Der letzte Schultag im Jahr 2021 ist gekommen. Wir haben heute einen Test geschrieben. Es war der erste Test in diesem Modul und ich glaube er lief nicht soo schlecht. Danach haben wir noch weitere zwei Lektionen am Github und am Passwortmanager gearbeitet. Der Test lief grundsätzlich nicht schlecht, aber ich habe ein paar Fehler wie ich im nachhinein bemerkt habe. Ich finde dass wir recht gut arbeiten konnten und auch das meiste recht konzentriert fertig gebracht haben.
+
+#5. 04.01.2022
+
+Der erste Schultag im Jahre 2022. Nach den Ferien geht es wieder Frisch an die Arbeit.
 
 # Quellen
