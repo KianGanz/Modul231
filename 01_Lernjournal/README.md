@@ -5,7 +5,8 @@
 - [2. 27.09.2021](#2-30112021)
 - [3. 07.12.2021](#3-07122021)
 - [4. 14.12.2021](#4-14122021)
-- [4. 04.01.2022](#5-04012022)
+- [5. 04.01.2022](#5-04012022)
+- [6. 11.01.2022](#6-11012022)
 - [Quellen](#quellen)
 
 # 1. 23.11.2021
@@ -24,11 +25,11 @@ Wir haben wieder ein Quiz über den Text den wir lesen mussten gemacht. Heute ha
 
 Der letzte Schultag im Jahr 2021 ist gekommen. Wir haben heute einen Test geschrieben. Es war der erste Test in diesem Modul und ich glaube er lief nicht soo schlecht. Danach haben wir noch weitere zwei Lektionen am Github und am Passwortmanager gearbeitet. Der Test lief grundsätzlich nicht schlecht, aber ich habe ein paar Fehler wie ich im nachhinein bemerkt habe. Ich finde dass wir recht gut arbeiten konnten und auch das meiste recht konzentriert fertig gebracht haben.
 
-#5. 04.01.2022
+# 5. 04.01.2022
 
 Der erste Schultag im Jahre 2022. Nach den Ferien geht es wieder Frisch an die Arbeit. Am Anfang hatten wir einen Input über Verschlüsselungen. Ich habe danach lange am passwortmanager gearbeitet. Ich habe mir viele Sachen verglichen und bin danach zu einem Schluss gekommen. Am Ende hatten wir noch einen kleinen Input über Hash. Wir haben auch selbständig an Übungen zum Thema Verschlüsselungen gearbeitet. Alles in allem verlief der Tag ganz in Ordnung und ich habe viel gelernt.
 
-#6. 11.01.2022
+# 6. 11.01.2022
 
 Wir hatten wieder am Anfang wieder so ein Quiz. Ich habe den grössten Teil vom Tag damit verbracht an meinem Portfolio zu arbeiten. Ich habe sehr viel gearbeitet und bin gut vorangekommen. Ich habe sehr viele Sachen ausgebessert und auch neue Sachen hinzugefügt. Ich habe auch noch ein bisschen Theorie gelesen. Ich finde dass der Tag recht gut verlief und ich auch recht gut arbeiten konnte.
 
