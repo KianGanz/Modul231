@@ -30,6 +30,6 @@ Der erste Schultag im Jahre 2022. Nach den Ferien geht es wieder Frisch an die A
 
 #6. 11.01.2022
 
-
+Wir hatten wieder am Anfang wieder so ein Quiz. Ich habe den grössten Teil vom Tag damit verbracht an meinem Portfolio zu arbeiten. Ich habe sehr viel gearbeitet und bin gut vorangekommen. Ich habe sehr viele Sachen ausgebessert und auch neue Sachen hinzugefügt. Ich habe auch noch ein bisschen Theorie gelesen. Ich finde dass der Tag recht gut verlief und ich auch recht gut arbeiten konnte.
 
 # Quellen
