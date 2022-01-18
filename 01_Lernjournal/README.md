@@ -17,7 +17,7 @@ Wir haben ein Quiz gemacht. Ich finde das eine sehr coole und kreative Form das 
 
 Wir hatten Homeoffice, da Herr Nussle am vormittag auch homeoffice machen musste und Herr Albrecht hat uns erlaubt homeoffice zu machen. Das Thema war Passwörter und ihre Sicherheit. Wir haben auch viel über die Authentifizierung und so gelernt. Wir haben die 100 meistgebrauchten passwörter besprochen und geschaut was ein sicheres passwort beinhalten sollte und was man auf jeden Fall vermeiden sollte. Ich habe sehr viel darüber gelernt was ein sicheres Passwort ist. Ich habe auch ein paar Passwortmanager angeschaut und untersucht.
 
-# 3. 7.12.2021
+# 3. 07.12.2021
 
 Wir haben wieder ein Quiz über den Text den wir lesen mussten gemacht. Heute haben wir die Datenschutzbedingungen verschiedener Firmen angeschaut. Wir mussten die Privacy police von der zugeteilten Firma anschauen und unsere erkenntnisse in einer Präsentation festhalten. Ich war in der Gruppe mit Whatsapp und der Datenschutz ist absoluter Müll. Wir haben auch einen Film über Datenmoderatoren geschaut in dem es um Leute geht die das Internet von kritischem content reinigen.
 
