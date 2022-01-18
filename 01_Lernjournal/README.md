@@ -26,6 +26,10 @@ Der letzte Schultag im Jahr 2021 ist gekommen. Wir haben heute einen Test geschr
 
 #5. 04.01.2022
 
-Der erste Schultag im Jahre 2022. Nach den Ferien geht es wieder Frisch an die Arbeit.
+Der erste Schultag im Jahre 2022. Nach den Ferien geht es wieder Frisch an die Arbeit. Am Anfang hatten wir einen Input über Verschlüsselungen. Ich habe danach lange am passwortmanager gearbeitet. Ich habe mir viele Sachen verglichen und bin danach zu einem Schluss gekommen. Am Ende hatten wir noch einen kleinen Input über Hash. Wir haben auch selbständig an Übungen zum Thema Verschlüsselungen gearbeitet. Alles in allem verlief der Tag ganz in Ordnung und ich habe viel gelernt.
+
+#6. 11.01.2022
+
+
 
 # Quellen
